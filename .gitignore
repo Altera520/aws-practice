@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+.env
+.envrc
+.direnv
+.terraform
+.terraform-version
+venv/
+.python-version
+.tool-versions
+terraform-aws-modules/
+__pycache__/
+.output
